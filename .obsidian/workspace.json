@@ -10,6 +10,7 @@
           {
             "id": "957a4efa8b280602",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,11 +18,61 @@
                 "mode": "preview",
                 "source": false
               },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "modelos_preditivos_ml_guia_estudo_v2_fraude_kaggle"
+            }
+          },
+          {
+            "id": "fbeaab1a73d44531",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MACHINE LEARNING/modelos_preditivos_ml_guia_estudo_v2_fraude_kaggle.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "modelos_preditivos_ml_guia_estudo_v2_fraude_kaggle"
+            }
+          },
+          {
+            "id": "1b178a9f30be20a5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MACHINE LEARNING/modelos_preditivos_ml_guia_estudo_v3_fraude_kaggle_arquitetura_codigo.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "modelos_preditivos_ml_guia_estudo_v3_fraude_kaggle_arquitetura_codigo"
+            }
+          },
+          {
+            "id": "92e8a04326beeb18",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MACHINE LEARNING/modelos_preditivos_ml_guia_estudo_v2_fraude_kaggle.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "modelos_preditivos_ml_guia_estudo_v2_fraude_kaggle"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 310.5,
+    "collapsed": true
   },
   "right": {
     "id": "1337fcd9023ad1eb",
@@ -153,23 +205,26 @@
           {
             "id": "0d7859c2022177e0",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bem-vindo.md",
+                "file": "MACHINE LEARNING/modelos_preditivos_ml_guia_estudo_v2_fraude_kaggle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
+              "pinned": true,
               "icon": "lucide-list",
-              "title": "Sumário de Bem-vindo"
+              "title": "Sumário de modelos_preditivos_ml_guia_estudo_v2_fraude_kaggle"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +237,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "0789b93b381c438d",
+  "active": "92e8a04326beeb18",
   "lastOpenFiles": [
+    "MACHINE LEARNING/modelos_preditivos_ml_guia_estudo_v3_fraude_kaggle_arquitetura_codigo.md",
+    "MACHINE LEARNING/modelos_preditivos_ml_guia_estudo_v2_fraude_kaggle.md",
+    "MACHINE LEARNING/modelos_preditivos_ml_guia_estudo_v2_fraude_kaggle_arquitetura.md",
     "IA GENERATIVA",
     "MACHINE LEARNING",
     "MACHINE LEARNING/modelos_preditivos_ml_guia_estudo.md",
